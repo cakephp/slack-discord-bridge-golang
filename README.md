@@ -11,7 +11,7 @@ The `main.go` contains all the necessary configuration options. You can set the 
 Make sure to have Go version 1.24.2 or later installed.
 
 ```bash
-go mod downloads
+go mod download
 go build -o slack-discord-bridge
 ```
 
